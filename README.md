@@ -2,6 +2,15 @@
 
 This application is generated with the official Laravel installer. It includes source-built Docker images for Railway, with MySQL, PostgreSQL or MariaDB and optional Redis. It uses Laravel's default development tooling: SQLite, Pest, Boost and npm.
 
+## Deploy on Railway
+
+- [MySQL](https://railway.com/deploy/laravel-vue-blank-mysql)
+- [MySQL with Redis](https://railway.com/deploy/laravel-vue-blank-mysql-redis)
+- [PostgreSQL](https://railway.com/deploy/laravel-vue-blank-postgresql)
+- [PostgreSQL with Redis](https://railway.com/deploy/laravel-vue-blank-postgresql-redis)
+- [MariaDB](https://railway.com/deploy/laravel-vue-blank-mariadb)
+- [MariaDB with Redis](https://railway.com/deploy/laravel-vue-blank-mariadb-redis)
+
 ## Services
 
 - **APP** serves HTTP on port 8080 with FrankenPHP in classic mode, runs migrations at startup, and exposes `/up` for health checks.
